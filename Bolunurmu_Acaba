@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\kadir\Desktop\Dersler\ntp ödev\odev_3hafta_uygulama3.cs" Link="odev_3hafta_uygulama3.cs" />
+  </ItemGroup>
+
+</Project>
